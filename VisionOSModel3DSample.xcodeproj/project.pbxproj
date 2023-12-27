@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1A1E41CF2B3BEE7B002B5053 /* teapot.usdz in Resources */ = {isa = PBXBuildFile; fileRef = 1A1E41CE2B3BEE7B002B5053 /* teapot.usdz */; };
 		1ABF9DD42B3BE73D008C5A54 /* RealityKitContent in Frameworks */ = {isa = PBXBuildFile; productRef = 1ABF9DD32B3BE73D008C5A54 /* RealityKitContent */; };
 		1ABF9DD62B3BE73D008C5A54 /* VisionOSModel3DSampleApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1ABF9DD52B3BE73D008C5A54 /* VisionOSModel3DSampleApp.swift */; };
 		1ABF9DD82B3BE73D008C5A54 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1ABF9DD72B3BE73D008C5A54 /* ContentView.swift */; };
@@ -26,6 +27,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		1A1E41CE2B3BEE7B002B5053 /* teapot.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; path = teapot.usdz; sourceTree = "<group>"; };
 		1ABF9DCE2B3BE73D008C5A54 /* VisionOSModel3DSample.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = VisionOSModel3DSample.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1ABF9DD22B3BE73D008C5A54 /* RealityKitContent */ = {isa = PBXFileReference; lastKnownFileType = wrapper; path = RealityKitContent; sourceTree = "<group>"; };
 		1ABF9DD52B3BE73D008C5A54 /* VisionOSModel3DSampleApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VisionOSModel3DSampleApp.swift; sourceTree = "<group>"; };
@@ -78,6 +80,7 @@
 		1ABF9DD02B3BE73D008C5A54 /* VisionOSModel3DSample */ = {
 			isa = PBXGroup;
 			children = (
+				1A1E41CE2B3BEE7B002B5053 /* teapot.usdz */,
 				1ABF9DD52B3BE73D008C5A54 /* VisionOSModel3DSampleApp.swift */,
 				1ABF9DD72B3BE73D008C5A54 /* ContentView.swift */,
 				1ABF9DD92B3BE73E008C5A54 /* Assets.xcassets */,
@@ -195,6 +198,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1A1E41CF2B3BEE7B002B5053 /* teapot.usdz in Resources */,
 				1ABF9DDD2B3BE73E008C5A54 /* Preview Assets.xcassets in Resources */,
 				1ABF9DDA2B3BE73E008C5A54 /* Assets.xcassets in Resources */,
 			);
